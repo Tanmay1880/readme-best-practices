@@ -82,3 +82,9 @@ This project is licensed under an Unlicense license. This license does not requi
 you to take the license with you to your project.
 
 [issues]:https://github.com/jehna/readme-best-practices/issues/new
+
+
+## EDIT DONE BY TANMAY KAUSHIK
+
+- learning about fork and doing practise on it. 
+- my nowadays goal is to be comfortable with git and github     basics.
